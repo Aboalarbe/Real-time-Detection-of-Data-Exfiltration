@@ -1,0 +1,9 @@
+# local package
+-e .
+
+# external requirements
+catboost
+kafka-python
+tldextract
+xgboost==1.5.2
+python-dotenv

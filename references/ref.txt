@@ -1,0 +1,4 @@
+https://www.unb.ca/cic/datasets/dns-exf-2021.html
+https://dl.acm.org/doi/abs/10.1145/3507509.3507520
+https://kafka.apache.org/
+https://zookeeper.apache.org/

@@ -1,10 +1,9 @@
-# Detection of data exfiltration via DNS
+# Detection of data exfiltration via DNS in Realtime
 
 implementation of a binary classifier aiming at predicting data exfiltration via DNS from a data stream (local Kafka Server).
 
 ## Author
 - [Mohamed Sayed Abdelwahab - 300273145](https://github.com/Aboalarbe)
-- [Repository link](https://github.com/ELG7186-uOttawa/assignment2-Aboalarbe)
 
 
 ## Feedback

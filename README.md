@@ -26,5 +26,3 @@ If you have any feedback, please reach out at mhuss073@uottawa.ca
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-b
